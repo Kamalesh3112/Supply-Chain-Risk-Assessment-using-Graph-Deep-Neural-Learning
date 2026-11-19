@@ -44,4 +44,8 @@ This repository contains code, configuration examples, and documentation for bui
 
 **Status**
 
-      This GNN Architecture is under development and working on changing the Neural Architecture. Feel free to collaborate with me and reach out to me for any collaborations.
+      This GNN Architecture is under development and working on changing the Neural Architecture.
+
+**Collaborations**
+
+      Feel free to collaborate with me in this work and reach out to me to get started..
