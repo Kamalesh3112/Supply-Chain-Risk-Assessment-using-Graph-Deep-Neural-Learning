@@ -2,7 +2,7 @@
 
 # Supply-Chain Risk Assessment using Graph Neural Algorithm
 
-A Graph Neural Network (GNN) based system for supply chain risk assessment and early warning. This is an **academic and research project** leverages multi-layer graph architectures and an ensemble of GNN models (GCN, GAT, and Temporal GNN) to predict supplier risk, simulate disruption cascades, and provide actionable insights for supply chain resilience.
+A Graph Neural Network (GNN) based framework for supply chain risk assessment and early warning. This is an **academic and research project** leverages multi-layer graph architectures and an ensemble of GNN models (GCN, GAT, and Temporal GNN) to predict supplier risk, simulate disruption cascades, and provide actionable insights for supply chain resilience.
 
 This systematic approach is part of my academic-research work at **Amrita Vishwa Vidyapeetham**.
 
